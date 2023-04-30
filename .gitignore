@@ -164,3 +164,4 @@ cython_debug/
 .yarn/*
 !.yarn/patches
 node_modules/
+.yarn-integrity
